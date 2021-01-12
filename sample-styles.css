@@ -9,7 +9,7 @@
 .topbar {
   background-color: white;
   width: 100%;
-  padding: 20px;
+  padding: 50px;
   box-sizing: border-box;
   position: fixed;
 }
@@ -17,7 +17,7 @@
 .topbar a {
   color: gray;
   text-decoration: none;
-  padding: 100px;
+  padding: 50px;
 }
 
 a:hover {
@@ -92,7 +92,7 @@ body {
 
 footer {
   padding: 20px;
-  background-color: #ccc;
-  color: #333;
+  background-color: #bbb;
+  color: #fff;
   text-align: center;
 }
