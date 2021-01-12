@@ -15,7 +15,7 @@
 }
 
 .topbar a {
-  color: gray;
+  color: #ccc;
   text-decoration: none;
 }
 
@@ -59,7 +59,7 @@ body {
 }
 
 .section {
-  padding: 50px;
+  padding: 100px;
 }
 
 .section-header {
@@ -92,7 +92,7 @@ body {
 
 footer {
   padding: 20px;
-  background-color: #333;
-  color: #ccc;
+  background-color: #ccc;
+  color: #333;
   text-align: center;
 }
