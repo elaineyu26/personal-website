@@ -83,6 +83,7 @@ body {
   padding: 30px;
   border: 3px solid black;
   margin: 20px;
+  border-radius: 15%;
 }
 
 .project-title {
