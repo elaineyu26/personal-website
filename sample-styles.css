@@ -12,6 +12,7 @@
   width: 100%;
   padding: 20px;
   box-sizing: border-box;
+  position: fixed;
 }
 
 .topbar a {
@@ -92,7 +93,7 @@ body {
 
 footer {
   padding: 20px;
-  background-color: #333;
+  background-color: #fff;
   color: #ccc;
   text-align: center;
 }
