@@ -6,7 +6,7 @@
   100% {background-color:#fff9db}
 }
 
-header {
+.topbar {
   background-color: white;
   color: #ccc;
   width: 100%;
@@ -14,8 +14,8 @@ header {
   box-sizing: border-box;
 }
 
-header a {
-  color: white;
+.topbar a {
+  color: gray;
   text-decoration: none;
 }
 
