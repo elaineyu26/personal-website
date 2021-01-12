@@ -14,7 +14,7 @@
   position: fixed;
 }
 
-.topbar a {
+a {
   color: gray;
   text-decoration: none;
   padding: 50px;
