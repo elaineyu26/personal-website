@@ -42,14 +42,11 @@ body {
 }
 
 #name {
-  font-style: bold;
   font-size: 108px;
   font-weight: 700;
   align-self: center;
   flex: 1;
   text-align: center;
-  background-color: white;
-  animation: name-callout 4s infinite;
 }
 
 #about-me {
